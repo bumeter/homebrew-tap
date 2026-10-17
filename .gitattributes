@@ -1,0 +1,3 @@
+# Casks are read by Ruby on every platform; LF only, so no CRLF creeps in from a clone.
+*.rb  text eol=lf
+*.md  text eol=lf
