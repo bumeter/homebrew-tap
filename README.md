@@ -1,7 +1,7 @@
-# chieund's Homebrew tap
+# Bumeter Homebrew tap
 
 ```bash
-brew install --cask chieund/tap/bumeter
+brew install --cask bumeter/tap/bumeter
 ```
 
 ## Casks
@@ -10,7 +10,7 @@ brew install --cask chieund/tap/bumeter
 |---|---|
 | `bumeter` | [Bumeter](https://bumeter.cc) — see where your AI coding tokens go, per conversation, turn and skill |
 
-Bumeter is installed from its [GitHub releases](https://github.com/chieund/bumeter/releases) and
+Bumeter is installed from its [GitHub releases](https://github.com/bumeter/bumeter/releases) and
 updates itself from there afterwards. The app is not signed with an Apple Developer ID, so macOS
 quarantines the download: open it once with right-click → Open, or
 
